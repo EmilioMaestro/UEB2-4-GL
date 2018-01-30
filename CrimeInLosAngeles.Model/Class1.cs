@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CrimeInLosAngeles.DAL
+namespace CrimeInLosAngeles.Model
 {
     public class Class1
     {
-		public void Test()
-		{
-
-		}
     }
 }

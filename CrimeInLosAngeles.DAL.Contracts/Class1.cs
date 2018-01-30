@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CrimeInLosAngeles.DAL
+namespace CrimeInLosAngeles.DAL.Contracts
 {
-    public class Class1
-    {
-		public void Test()
-		{
-
-		}
+    public interface IClass1
+	{
     }
 }
